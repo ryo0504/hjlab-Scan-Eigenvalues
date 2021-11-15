@@ -1,0 +1,2 @@
+# hjlab_Scan_Eigenvalues
+Scanのoutputfileからエネルギー値を取り出すプログラム
