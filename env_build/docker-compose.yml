@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  jupyter:
+    build: .
+    ports:
+      - "8801:8888"
+    volumes:
+      - "../src:/work"
